@@ -1,3 +1,5 @@
 node_modules/
 *.json
 *.sh
+
+analyze_stars_and_scores.py
